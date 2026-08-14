@@ -95,7 +95,7 @@ function App() {
                 Limpar Tarefas
             </button>
 
-        </div>
+        </div>   
     );
 }
 
