@@ -1,3 +1,5 @@
+import BotaoAdicionar from "./BotaoAdicionar";
+
 function TaskForm({ texto, setTexto, adicionarTarefa }) {
 
     return (
@@ -15,9 +17,9 @@ function TaskForm({ texto, setTexto, adicionarTarefa }) {
                 placeholder="Digite uma tarefa"
             />
 
-            <button onClick={adicionarTarefa}>
-                Adicionar
-            </button>
+            <BotaoAdicionar
+                adicionarTarefa={adicionarTarefa}
+            />
 
         </div>
     );

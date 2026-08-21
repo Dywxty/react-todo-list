@@ -22,6 +22,11 @@ function TaskItem({
             <div className="acoes">
 
                 <button
+                    className={
+                        tarefa.concluida
+                            ? "botaoDesfazer"
+                            : "botaoConcluir"
+                    }
                     onClick={() =>
                         concluirTarefa(indice)
                     }

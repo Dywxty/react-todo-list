@@ -2,15 +2,27 @@ import { useState, useEffect } from "react";
 import "./App.css";
 import TaskForm from "./components/TaskForm";
 import TaskList from "./components/TaskList";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import BotaoLimpar from "./components/BotaoLimpar";
 
 function App() {
     const [texto, setTexto] = useState("");
-    const [tarefas, setTarefas] = useState([
-        () => {
-            const tarefasSalvas = localStorage.getItem("tarefas");
-            return tarefasSalvas ? JSON.parse(tarefasSalvas) : [];
+    const [tarefas, setTarefas] = useState(() => {
+        const tarefasSalvas = localStorage.getItem("tarefas");
+
+        if (!tarefasSalvas) {
+            return [];
         }
-    ]);
+
+        try {
+            const tarefasConvertidas = JSON.parse(tarefasSalvas);
+            return Array.isArray(tarefasConvertidas) ? tarefasConvertidas : [];
+        } catch {
+            localStorage.removeItem("tarefas");
+            return [];
+        }
+    });
 
     useEffect(() => {
         localStorage.setItem("tarefas", JSON.stringify(tarefas));
@@ -71,41 +83,47 @@ function App() {
     }
 
     return (
-        <div className="container">
+        <div className="pagina">
 
-            <h1>Lista de Tarefas</h1>
+            <Header />
 
-            <TaskForm
-                texto={texto}
-                setTexto={setTexto}
-                adicionarTarefa={adicionarTarefa}
-            />
+            <div className="container">
 
-            <p className="digitado">
-                Você digitou: {texto}
-            </p>
+                <TaskForm
+                    texto={texto}
+                    setTexto={setTexto}
+                    adicionarTarefa={adicionarTarefa}
+                />
 
-            {tarefas.length === 0 && (
-                <p className="vazio">
-                    Nenhuma tarefa cadastrada.
+                <p className="digitado">
+                    Você digitou: {texto}
                 </p>
-            )}
 
-            <TaskList
-                tarefas={tarefas}
-                concluirTarefa={concluirTarefa}
-                removerTarefa={removerTarefa}
-            />  
+                {tarefas.length === 0 && (
+                    <p className="vazio">
+                        Nenhuma tarefa cadastrada.
+                    </p>
+                )}
 
-            <p className="digitado">
-                Total tarefas: {tarefas.length}
-            </p>
+                <TaskList
+                    tarefas={tarefas}
+                    concluirTarefa={concluirTarefa}
+                    removerTarefa={removerTarefa}
+                />
 
-            <button onClick={limparTarefas}>
-                Limpar Tarefas
-            </button>
+                <p className="digitado">
+                    Total tarefas: {tarefas.length}
+                </p>
 
-        </div>   
+                <BotaoLimpar
+                    limparTarefas={limparTarefas}
+                />
+
+            </div>
+
+            <Footer />
+
+        </div>
     );
 }
 
