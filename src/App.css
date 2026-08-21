@@ -272,7 +272,8 @@ button:hover {
 
     color: #e63956;
 
-    background: rgba(255, 239, 243, 0.90) opacity: 0.95%;
+    background: rgba(255, 239, 243, 0.90);
+    /* opacity: 0.95%; */
 
     box-shadow:
         0 4px 10px rgba(190, 40, 70, 0.20);
@@ -308,11 +309,11 @@ button:hover {
     color: #c73855;
 
     font-size: 20px;
-    background: rgba(255, 239, 243, 0.95 ) opacity: 0.95%;
+    background: rgba(255, 239, 243, 0.95 ); 
+   /* opacity: 0.95%; */
     box-shadow: 0 -4px 8px rgba(190, 40, 70, 0.25);
 
 }
-
 .botaoConcluir {
     background: #78a957;
 }
