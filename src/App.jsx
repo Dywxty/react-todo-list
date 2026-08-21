@@ -1,11 +1,21 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import "./App.css";
 import TaskForm from "./components/TaskForm";
 import TaskList from "./components/TaskList";
 
 function App() {
     const [texto, setTexto] = useState("");
-    const [tarefas, setTarefas] = useState([]);
+    const [tarefas, setTarefas] = useState([
+        () => {
+            const tarefasSalvas = localStorage.getItem("tarefas");
+            return tarefasSalvas ? JSON.parse(tarefasSalvas) : [];
+        }
+    ]);
+
+    useEffect(() => {
+        localStorage.setItem("tarefas", JSON.stringify(tarefas));
+        console.log("O componente foi montado ou atualizado.");
+    }, [tarefas]);
 
     function adicionarTarefa() {
         if (texto.trim() !== "") {
@@ -85,7 +95,7 @@ function App() {
                 tarefas={tarefas}
                 concluirTarefa={concluirTarefa}
                 removerTarefa={removerTarefa}
-            />
+            />  
 
             <p className="digitado">
                 Total tarefas: {tarefas.length}
