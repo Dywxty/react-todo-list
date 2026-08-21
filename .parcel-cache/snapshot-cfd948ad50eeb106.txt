@@ -1,4 +1,4 @@
-3629
+3634
 123C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0134311788964056571 1
 105C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\lmdb\node_modules\node-addon-api\tools134311788945216082 1
 122C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js134311789057020049 0
@@ -9,7 +9,7 @@
 134C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate-override.js134311789094678096 0
 125C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\_\_unsupported_iterable_to_array\package.json134311789034326838 0
 89C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\ordered-binary\LICENSE134311788856530767 0
-66C:\Users\52095216806\Documents\GitHub\react-todo-list\package.json134318033923428991 0
+66C:\Users\52095216806\Documents\GitHub\react-todo-list\package.json134318042520286353 0
 109C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\node-gyp-build-optional-packages\README.md134311788894431668 0
 116C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs134311788978090121 0
 96C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\regenerator-runtime\README.md134311788886888120 0
@@ -27,7 +27,7 @@
 123C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE134311788937373756 0
 113C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi134311788916316024 0
 98C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\workers\src\cpuCount.js134311788941139437 0
-58C:\Users\52095216806\Documents\GitHub\react-todo-list\dist134318034115362074 1
+58C:\Users\52095216806\Documents\GitHub\react-todo-list\dist134318034596909417 1
 99C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\_\_set_prototype_of134311789030373570 1
 84C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\get-port\index.js134311788870485561 0
 110C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\notifications.js134311789104835837 0
@@ -1928,6 +1928,7 @@
 108C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\src\_to_consumable_array.mjs134311789050152919 0
 98C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\regions\RE.js134311789111215318 0
 107C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\css-sticky.js134311789029103890 0
+90C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.4e9c730c.js.map134318034596707868 0
 98C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\regions\RO.js134311789112421146 0
 98C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\regions\RW.js134311789113147215 0
 98C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\regions\SC.js134311789113525546 0
@@ -2674,6 +2675,7 @@
 124C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.mjs134311789042954735 0
 112C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\package-manager\src\installPackage.js134311788944460043 0
 120C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\src\_class_static_private_method_get.mjs134311789043237210 0
+91C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.af5d0f86.css.map134318034596407418 0
 97C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\src\_decorate.mjs134311789044094976 0
 92C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\src\_get.mjs134311789045350656 0
 105C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\src\_get_prototype_of.mjs134311789045183270 0
@@ -3209,6 +3211,7 @@
 96C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\source-map\index.d.ts134311788978789725 0
 118C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\error-overlay\src\components\CloseButton.js134311788908145465 0
 107C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\source-map\parcel_sourcemap_wasm134311788936014798 1
+82C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\strawberry.d7fef2f8.png134318034594256880 0
 95C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\source-map\README.md134311788950626411 0
 129C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\package.json134311788949648250 0
 116C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js134311788926761175 0
@@ -3625,6 +3628,8 @@
 82C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\.bin\parcel.cmd134311789136187913 0
 82C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\.bin\parcel.ps1134311789136202278 0
 98C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\.bin\update-browserslist-db.cmd134311789137085403 0
-69C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\index.html134317953762713524 0
+69C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\index.html134318034596252012 0
+86C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.4e9c730c.js134318034596271992 0
 87C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.aa436662.css134318034112807490 0
 91C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.aa436662.css.map134318034113218470 0
+87C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.af5d0f86.css134318034596262014 0
