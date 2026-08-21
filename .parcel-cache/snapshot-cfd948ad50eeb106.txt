@@ -9,7 +9,7 @@
 134C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate-override.js134311789094678096 0
 125C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\_\_unsupported_iterable_to_array\package.json134311789034326838 0
 89C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\ordered-binary\LICENSE134311788856530767 0
-66C:\Users\52095216806\Documents\GitHub\react-todo-list\package.json134311785227561734 0
+66C:\Users\52095216806\Documents\GitHub\react-todo-list\package.json134318033923428991 0
 109C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\node-gyp-build-optional-packages\README.md134311788894431668 0
 116C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs134311788978090121 0
 96C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\regenerator-runtime\README.md134311788886888120 0
@@ -27,7 +27,7 @@
 123C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE134311788937373756 0
 113C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi134311788916316024 0
 98C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\workers\src\cpuCount.js134311788941139437 0
-58C:\Users\52095216806\Documents\GitHub\react-todo-list\dist134317937134382180 1
+58C:\Users\52095216806\Documents\GitHub\react-todo-list\dist134318034115362074 1
 99C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\_\_set_prototype_of134311789030373570 1
 84C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\get-port\index.js134311788870485561 0
 110C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\notifications.js134311789104835837 0
@@ -73,7 +73,7 @@
 109C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\core\test\fixtures\invalid-targets134311789018377921 1
 85C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\.package-lock.json134311789138302646 0
 77C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\.bin\json5134311789136187913 0
-65C:\Users\52095216806\Documents\GitHub\react-todo-list\src\App.css134317937133735501 0
+65C:\Users\52095216806\Documents\GitHub\react-todo-list\src\App.css134317952875820030 0
 77C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\is-extglob134311788872377048 1
 120C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\_\_class_private_field_init\package.json134311789020141984 0
 111C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\lmdb\dependencies\v8\v8-fast-api-calls-v16.h134311789010604026 0
@@ -81,7 +81,7 @@
 104C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\portals.js134311789109436447 0
 114C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\core\test\fixtures\plugins\node_modules134311788986285372 1
 111C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\css-cross-fade.js134311789011255983 0
-65C:\Users\52095216806\Documents\GitHub\react-todo-list\src\App.jsx134317935281073591 0
+65C:\Users\52095216806\Documents\GitHub\react-todo-list\src\App.jsx134317953835507403 0
 95C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\type-fest\source\except.d.ts134311788937769468 0
 85C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\events\src134311788936770462 1
 98C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\regions\BO.js134311788984782745 0
@@ -148,7 +148,7 @@
 82C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\detect-libc\lib134311788900667091 1
 98C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\regions\KM.js134311789086247036 0
 93C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\types-internal\lib134311788954484970 1
-81C:\Users\52095216806\Documents\GitHub\react-todo-list\src\components\TaskItem.jsx134290362080000000 0
+81C:\Users\52095216806\Documents\GitHub\react-todo-list\src\components\TaskItem.jsx134317953196539414 0
 81C:\Users\52095216806\Documents\GitHub\react-todo-list\src\components\TaskList.jsx134290362080000000 0
 71C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\.bin134311789136964262 1
 115C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE134311788940188363 0
@@ -2256,7 +2256,7 @@
 102C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\webgl.js134311789131564260 0
 104C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\history.js134311789069300801 0
 102C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\_\_to_consumable_array134311789031856487 1
-82C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\strawberry.3d2adeae.png134317927319450375 0
+82C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\strawberry.3d2adeae.png134317953763964701 0
 110C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\html5semantic.js134311789070490263 0
 116C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\caniuse-lite\data\features\http-live-streaming.js134311789070624557 0
 103C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\esm\_read_only_error.js134311789010328214 0
@@ -2499,7 +2499,7 @@
 88C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\browserslist\index.js134311788900310437 0
 87C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\browserslist\LICENSE134311788858519537 0
 87C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\browserslist\node.js134311788912775327 0
-90C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.31b563d9.js.map134317935284523366 0
+90C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.31b563d9.js.map134318034114883307 0
 93C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\graph\src\types.js134311788950513145 0
 115C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js134311788953257966 0
 88C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\browserslist\parse.js134311788916856722 0
@@ -2842,7 +2842,7 @@
 122C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\cjs\_class_check_private_static_access.cjs134311788947769087 0
 99C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\runtime-rsc\package.json134311788906411910 0
 132C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\cjs\_class_check_private_static_field_descriptor.cjs134311788948636653 0
-86C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.31b563d9.js134317935284042429 0
+86C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.31b563d9.js134318034114469233 0
 83C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@parcel\rust\src134311788902572256 1
 112C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\cjs\_class_private_field_get.cjs134311788952736988 0
 119C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\@swc\helpers\cjs\_class_private_field_loose_base.cjs134311788954203026 0
@@ -3625,6 +3625,6 @@
 82C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\.bin\parcel.cmd134311789136187913 0
 82C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\.bin\parcel.ps1134311789136202278 0
 98C:\Users\52095216806\Documents\GitHub\react-todo-list\node_modules\.bin\update-browserslist-db.cmd134311789137085403 0
-69C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\index.html134317934891004494 0
-87C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.aa436662.css134317937134225030 0
-91C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.aa436662.css.map134317937134376455 0
+69C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\index.html134317953762713524 0
+87C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.aa436662.css134318034112807490 0
+91C:\Users\52095216806\Documents\GitHub\react-todo-list\dist\react-todo-list.aa436662.css.map134318034113218470 0
